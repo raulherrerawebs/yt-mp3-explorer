@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "notes": "Primera versión pública: descarga de YouTube a MP3, playlists y lotes, reproductor integrado y actualización con un botón.",
+  "version": "1.2.0",
+  "notes": "Versión de prueba para comprobar la actualización automática. Esta versión simula el aviso de nueva actualización y valida el flujo de descarga y reemplazo del ejecutable.",
   "files": { "windows": "YT-MP3-Explorer.exe" }
 }
