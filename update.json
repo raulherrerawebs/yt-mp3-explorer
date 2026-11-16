@@ -1,5 +1,5 @@
 {
-  "version": "1.3.2",
-  "notes": "Inicio de YouTube estilo Spotify: Artistas populares, Álbumes populares y Radios populares en filas deslizables. Un clic abre el artista, el álbum o la radio (mix de canciones parecidas).",
+  "version": "1.3.3",
+  "notes": "Se instala solo en el PC con acceso en el Escritorio y en el menú Inicio (busca «YT MP3»). Cualquier copia vieja del programa ahora abre siempre la última versión instalada. Nuevo panel «Acceso al programa» en Ajustes.",
   "files": { "windows": "YT-MP3-Explorer.exe" }
 }
