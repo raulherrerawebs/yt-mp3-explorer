@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
-  "notes": "NUEVO: navega YouTube dentro del programa (géneros, búsqueda, canales, listas, canciones parecidas), escucha sin descargar y baja con un clic. Biblioteca con listas automáticas y propias, favoritas, más escuchadas; arrastra música de tu PC para añadirla y reproducirla. Ecualizador de 10 bandas con presets.",
+  "version": "1.3.1",
+  "notes": "Carpetas al estilo Spotify: tarjetas con portada en mosaico, cabecera grande con botón verde de reproducir y aleatorio, también en las listas.",
   "files": { "windows": "YT-MP3-Explorer.exe" }
 }
