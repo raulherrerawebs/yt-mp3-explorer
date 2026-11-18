@@ -1,5 +1,5 @@
 {
-  "version": "1.3.5",
-  "notes": "Cada canción de tu biblioteca tiene un botón 🔎 (o clic derecho) para buscar en YouTube más canciones parecidas, más del mismo artista o del mismo estilo.",
+  "version": "1.3.6",
+  "notes": "Explorar YouTube: nueva sección Rankings (más vistas, más escuchadas, más gustadas, más buscadas, tendencias de la semana y del mes). Cada género y búsqueda se puede ordenar por «Más vistas» y filtrar por hoy, semana, mes o año.",
   "files": { "windows": "YT-MP3-Explorer.exe" }
 }
