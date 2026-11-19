@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
-  "notes": "Nueva pantalla «Reproduciendo ahora»: portada grande, título, artista e información de la canción (duración, formato, calidad, tamaño, fecha, reproducciones, carpeta), cambio elegante entre canciones con animación, desliza la portada o usa anterior/siguiente, y la cola «A continuación» a un clic.",
+  "version": "1.5.0",
+  "notes": "Nueva sección «Inicio de mi música» estilo YouTube con tus canciones descargadas: Seguir escuchando, Agregadas recientemente, Tus artistas, Lo que más escuchas, Tus listas y Toda mi música. Filtros por chips, buscador, y menú ⋮ en cada canción.",
   "files": { "windows": "YT-MP3-Explorer.exe" }
 }
