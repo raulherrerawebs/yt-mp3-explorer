@@ -1,5 +1,5 @@
 {
-  "version": "1.3.6",
-  "notes": "Explorar YouTube: nueva sección Rankings (más vistas, más escuchadas, más gustadas, más buscadas, tendencias de la semana y del mes). Cada género y búsqueda se puede ordenar por «Más vistas» y filtrar por hoy, semana, mes o año.",
+  "version": "1.4.0",
+  "notes": "Nueva pantalla «Reproduciendo ahora»: portada grande, título, artista e información de la canción (duración, formato, calidad, tamaño, fecha, reproducciones, carpeta), cambio elegante entre canciones con animación, desliza la portada o usa anterior/siguiente, y la cola «A continuación» a un clic.",
   "files": { "windows": "YT-MP3-Explorer.exe" }
 }
